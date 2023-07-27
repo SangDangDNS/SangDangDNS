@@ -8,13 +8,12 @@
 
 <p align="left"> <a href="https://github.com/SangDangDNS"><img src="https://komarev.com/ghpvc/?username=sangdangdns&label=Profile%20views&color=0e75b6&style=flat" alt="sangdangdns" /> </a></p>
 
-- 🔭 I’m currently working on **Dathoc**
-
-- 👨‍💻 All of my projects are available at [https://github.com/SangDangDNS](https://github.com/SangDangDNS)
+- 👨‍💻 All of my projects are available at [here](https://github.com/SangDangDNS?tab=repositories)
 
 - 📫 How to reach me **sangdang.dns@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- 📄 [My CV](https://drive.google.com/file/d/1ubXz2JHy-jyi8sy5D1DQ68XM8upjT4N0/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
