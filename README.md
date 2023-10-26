@@ -28,3 +28,11 @@
 <p>&nbsp;<a href="https://github.com/SangDangDNS"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sangdangdns&show_icons=true&locale=en&theme=tokyonight" alt="sangdangdns" /></a></p>
 
 <p><a href="https://github.com/SangDangDNS"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangdangdns&&theme=tokyonight" alt="sangdangdns" /></a></p>
+
+## Leetcode stats
+
+![Rank](https://badges.peiyuan.ch/leetcode/sangdangdns/ranking?logo=leetcode&label=sangdangdns&color=green)
+![All](https://badges.peiyuan.ch/leetcode/sangdangdns/solved)
+![Hard](https://badges.peiyuan.ch/leetcode/sangdangdns/solved?difficulty=hard)
+![Medium](https://badges.peiyuan.ch/leetcode/sangdangdns/solved?difficulty=medium)
+![Easy](https://badges.peiyuan.ch/leetcode/sangdangdns/solved?difficulty=easy)
